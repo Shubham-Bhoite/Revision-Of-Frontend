@@ -30,3 +30,22 @@ console.log(typeof x)
 console.log(typeof y)
 console.log(typeof z)
 console.log(typeof s)
+
+js = "global";
+function change() {
+    js = "local";  // Modifying the global variable 'js' to "local"
+    console.log(js);  // Logging the updated value of 'js' ("local")
+    console.log(this.js);  // Logging the value of 'js' using 'this' (also "local" because 'this' refers to the global object in this context)
+}
+// Calling the function 'change()'
+change();
+
+
+js = "global";  // Global variable initialized with the value "global"
+function modify() {
+    var js = "local";  // Create a local variable with the same name
+    console.log(js);    // Log the local variable ('local')
+    console.log(this.js);  // Log the global variable ('global')
+}
+// Calling the function 'change()'
+modify();
