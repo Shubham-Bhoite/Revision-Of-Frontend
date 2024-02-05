@@ -1,5 +1,31 @@
-# Revision of Front-end web languages like HTML, CSS, and JavaScript to structure the content. 
-- HTML, CSS, JavaScript daily tasks.
+# All JBK Practical Files
 
-## HTML :
-- It is a basic webpage language which shows HyperText & it is Marked-up by Tags and Attributes to achieved desired operations.
+## I have started learning HTML, CSS & JS from The Kiran Academy.
+
+## Topics Done :
+
+[Day 01 - Introduction TO HTML](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-01.html)
+
+[Day 02 - Basic Tags](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-02.html)
+
+[Day 03 - Tags, Attributes & Table](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-03.html)
+
+[Day 04 - Forms & its Elements](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-04.html)
+
+[Day 05 - Anchor Tag](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-05.html)
+
+[Day 06 - Select Tag and Image Tag](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-06.html)
+
+[Day 07 - iFrame Tag](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-07.html)
+
+[Day 08 - Introduction To JavaScript](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-08.html)
+
+[Day 09 - Functions In JavaScript](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-09.html)
+
+[Day 10 - JavaScript Window Functions](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-10.html)
+
+## Projects Done :
+
+
+## Instructor :
+-  Tejas Sir
