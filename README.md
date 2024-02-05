@@ -20,12 +20,12 @@
 
 [Day 08 - Introduction To JavaScript](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-08.html)
 
-[Day 09 - Functions In JavaScript](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-09.html)
+[Day 09 - Functions In JavaScript](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-09.js)
 
-[Day 10 - JavaScript Window Functions](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-10.html)
+[Day 10 - JavaScript Window Functions](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-10.js)
 
 ## Projects Done :
-
+[1) Simple Website : Digital-Clock](https://digital-lightdark-clock.netlify.app/)
 
 ## Instructor :
 -  Tejas Sir
