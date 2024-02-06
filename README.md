@@ -24,7 +24,7 @@
 
 [Day 10 - JavaScript Window Functions](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-10.js)
 
-[Day 11 - ](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-11.js)
+[Day 11 - Loops and Conditional Statements ](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-11.js)
 
 ## Projects Done :
 [1) Simple Website : Digital-Clock](https://digital-lightdark-clock.netlify.app/)
