@@ -1,4 +1,5 @@
 // Switch Statement Examples:
+//Example 1:
 let color = "red";
 switch (color) {
   case "red":
@@ -11,6 +12,7 @@ switch (color) {
     console.log("Other color");
 }
 
+//Example 2:
 let day = 3;
 switch (day) {
   case 1:
@@ -26,6 +28,7 @@ switch (day) {
     console.log("Other day");
 }
 
+//Example 3:
 let fruit = "apple";
 switch (fruit) {
   case "apple":
@@ -38,6 +41,7 @@ switch (fruit) {
     console.log("Unknown fruit");
 }
 
+//Example 4:
 let browser = "Chrome";
 switch (browser) {
   case "Chrome":
@@ -50,6 +54,7 @@ switch (browser) {
     console.log("Other browser");
 }
 
+//Example 5:
 let vehicle = "car";
 let vehicleType;
 switch (vehicle) {
