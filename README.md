@@ -30,6 +30,7 @@
 
 [Day 12 - Introduction to DOM](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-12.js)
 
+[Day 13 - if else in DOM](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-13.js)
 
 ## Projects Done :
 [1) Simple Website : Digital-Clock](https://digital-lightdark-clock.netlify.app/)
