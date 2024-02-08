@@ -34,7 +34,7 @@
 ## Projects Done :
 [1) Simple Website : Digital-Clock](https://digital-lightdark-clock.netlify.app/)
 
-[2) Simple website : Login Page with Validation]()
+[2) Simple website : Modern Login Page ](https://login-page-modern.netlify.app/)
 
 ## Instructor :
 -  Tejas Sir
