@@ -1,3 +1,15 @@
 h1{
     background-color: darkturquoise;
 }
+
+h3{
+    color: red;
+}
+
+input{
+    margin: 10px;
+}
+
+button{
+    background-color:coral;
+}
