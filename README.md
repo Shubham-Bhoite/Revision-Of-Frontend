@@ -32,7 +32,7 @@
 
 [Day 13 - if else in DOM](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-13.js)
 
-[Day 14 - ]()
+[Day 14 - Validation through JS](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-14.js)
 
 ## Projects Done :
 [1) Simple Website : Digital-Clock](https://digital-lightdark-clock.netlify.app/)
