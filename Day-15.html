@@ -7,7 +7,18 @@
     <link rel="stylesheet" href="Day-15.css">
 </head>
 <body>
-    <h1 align="center" >Day - 15 </h1>
+    <h1 align="center" >Day - 15 Email, Password, Mobile field Validation</h1>
+
+    <center>
+    Username : <input id="email" type="email" placeholder="Enter Username or Email" ><button type="button" onclick="checkmail()">Check email</button>
+    <label id="check"></label> <br><br>
+    Password : <input id="password" type="password" placeholder="Enter Password" ><button type="button" onclick="checkpass()">Check Password</button>
+    <label id="check"></label> <br><br>
+    
+    <button type="button" onclick="login()">Login</button>
+    
+    <h3 id="msg"></h3>
+    </center>
 </body>
 <script src="Day-15.js"></script>
 </html>
