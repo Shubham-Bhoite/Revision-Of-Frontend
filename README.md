@@ -36,6 +36,9 @@
 
 [Day 15 - Email, Password, Mobile field Validation](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-15.js)
 
+[Day 16 - Change Image through JS](https://github.com/Shubham-Bhoite/Revision-Of-Frontend/blob/main/Day-16.js)
+
+
 ## Projects Done :
 [1) Simple Website : Digital-Clock](https://digital-lightdark-clock.netlify.app/)
 
