@@ -4,9 +4,9 @@ function login(){
 }
 
 function checkmail(){
-    var e = document.getElementById("uname").value
+    var uname = document.getElementById("uname").value
 
-    var emailRegex = /\S+@\S+\.\S+/.test(e);
+    var emailRegex = /\S+@\S+\.\S+/.test(uname);
 
     if (emailRegex) {
         document.getElementById("echeck").innerHTML="Email is correct"
@@ -19,9 +19,9 @@ function checkmail(){
 }
 
 function checkpass(){
-    var p = document.getElementById("pass").value
+    var pass = document.getElementById("pass").value
 
-    var passRegex = /(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*\W).{8,}/.test(p);
+    var passRegex = /(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*\W).{8,}/.test(pass);
 
     if (passRegex) {
         document.getElementById("pmsg").innerHTML="Password is strong"
@@ -34,7 +34,7 @@ function checkpass(){
 }
 
 function checkmob(){
-    var m = document.getElementById("mob").value
+    var mob = document.getElementById("mob").value
 
     var mobRegex = /^\d{10}$/.test(mob);
 
